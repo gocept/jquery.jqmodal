@@ -1,11 +1,14 @@
 {
   "name": "jqModal",
   "homepage": "https://github.com/gocept/jquery.jqmodal",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "authors": [
     "Brice Burgess <bhb@iceburg.net>"
   ],
   "description": "Minimalist Modaling with jQuery",
-  "main": "src/jqmodal.js",
+  "main": [
+    "src/jqmodal.js",
+    "src/jqmodal.css"
+  ],
   "license": "MIT"
 }
